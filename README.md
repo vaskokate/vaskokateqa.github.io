@@ -1,2 +1,2 @@
-# vaskokate.qa.github.io
+# vaskokate.github.io
 сайт визитка HTML, CSS
